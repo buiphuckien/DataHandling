@@ -14,4 +14,4 @@ This project shows how to use Pandas and Numpy to manipulate data frame. Here I 
 
     WHO-COVID-19-global-data.csv is the file that was used to load data in the mentioned files.
 
-Handling data is a routine task for data scientists. This porject covers the common method they normaly use.
+Handling data is a routine task for data scientists. This porject covers the common methods they normaly use.
